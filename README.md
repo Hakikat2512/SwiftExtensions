@@ -16,5 +16,6 @@ Drag the desired extension in your XCode project
    textField.setBorderColor(borderColor)
    
 3. Label Extension 
-   This extension helps to drwa inset for the UILabel
+
+   This extension helps to draw inset for the UILabel
    
